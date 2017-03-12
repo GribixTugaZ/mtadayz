@@ -56,7 +56,7 @@ Q: Help! Vehicles won't spawn/appear!
 A: Check the vehicles database. Does it contain any entries? If not, delete the vehicleManager from the console (delaccount vehicleManager) and restart the server.
 
 Q: Error/Warning X is appearing in the server console!
-A: Please create an issue in our Github repository and all the info you can give us( Debugs, Images, CodeSnippets ) You can use https://paste.mta-day.org/
+A: Please create an issue in our Github repository and all the info you can give us( Debugs, Images, CodeSnippets ) You can use https://paste.mta-dayz.org/
 
 Q: What just happened?! I have been kicked when I tried to enter my Rhino!
 A: The anticheat measures prevent players who are not admins (ACL-wise) from entering vehicles which do not normally spawn via the MTA DayZ script.
